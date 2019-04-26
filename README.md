@@ -24,3 +24,9 @@ touch README.md
 | `touch <file_name>` | Navigate through directories |
 | `rm <file_name>` | Delete a file |
 | `rm -rf <dir_name>` | Delete a dir/folder |
+
+## Git Setup
+
+1. `git init`
+2. `git add <file_name>`
+3. `git commit -m "Rusydy"`
